@@ -1,3 +1,3 @@
-{
-    "text": "Server Rules:\n 1) No Swearing in public chat.\n 2) Keep memes to #memes and spamming to #spamming.",
-}
+Server Rules:
+1) No Swearing in public chat.
+2) Keep memes to #memes and spamming to #spamming.
